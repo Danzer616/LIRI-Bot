@@ -73,13 +73,13 @@ function getSpotify(songName) {
   let spotify = new Spotify(keys.spotify);
 
   if (!songName) {
-    songName = "When the Levee Breaks";
+    songName = "Heaven and Hell";
     console.log("songName:" + songName);
   };
 
   spotify.search({ type: 'track', query: songName }, function (err, data) {
     if (err) {
-      console.log("I'm sorry Dave, I'm afraid I can't do that for the following reason: " + err);
+      console.log("I'm afraid I can't do that: " + err);
       return;
     }
     // Line break for ease of differentiating
@@ -116,9 +116,9 @@ function getSpotify(songName) {
 // START BANDS IN TOWN FUNCTION
 
 function getBandsInTown(artist) {
-  // Default Artist is Clutch
+  // Default Artist is Vader
   if (!artist) {
-    artist = "Clutch";
+    artist = "Vader";
   }
   let bandQueryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"
 
@@ -156,9 +156,9 @@ function getBandsInTown(artist) {
 
 function getOMDB(movie) {
   // console.log("Movie: " + movie)
-  // Default Move is the Empire Strikes Back
+  // Default Move is the Blade Runners
   if (!movie) {
-    movie = "the Empire Strikes Back";
+    movie = "Blade Runner";
   }
   let movieQueryURL = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
   // console.log("movieQueryURL: " + movieQueryURL)
