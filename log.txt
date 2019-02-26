@@ -91,3 +91,60 @@ Song: Wanna Be Startin' Something'
 Album: Michael's in Bossa
 Preview Link: https://api.spotify.com/v1/tracks/1GgoAmWabvHCxZ5h5CCikV
 ======= End Spotify Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Dio
+Song: Holy Diver
+Album: Holy Diver
+Preview Link: https://api.spotify.com/v1/tracks/57fqmDaokbxZ3TaB0jp39q
+======= End Spotify Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Marduk
+Venue: Svoboda
+City: Ekaterinburg
+Date: 03-04-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Online Movie Database Log Entry =======
+Title: Blade Runner
+Year Released: 1982
+IMDB Rating: 8.2
+Rotten Tomatos Rating: 90%
+Country Where Produced: USA, Hong Kong
+Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+======= End Online Movie Database Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Various Artists
+Song: Wanna Be Startin' Something'
+Album: Michael's in Bossa
+Preview Link: https://api.spotify.com/v1/tracks/1GgoAmWabvHCxZ5h5CCikV
+======= End Spotify Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Dio
+Song: Holy Diver
+Album: Holy Diver
+Preview Link: https://api.spotify.com/v1/tracks/57fqmDaokbxZ3TaB0jp39q
+======= End Spotify Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Marduk
+Venue: Svoboda
+City: Ekaterinburg
+Date: 03-04-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Online Movie Database Log Entry =======
+Title: Star Wars: Episode V - The Empire Strikes Back
+Year Released: 1980
+IMDB Rating: 8.8
+Rotten Tomatos Rating: 95%
+Country Where Produced: USA
+Language: English
+Plot: After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+======= End Online Movie Database Log Entry =======

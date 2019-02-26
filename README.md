@@ -21,4 +21,4 @@ Spotify: https://developer.spotify.com/my-applications/
 
 
 ### Video of the fully functioning application:
-GDrive: 
+GDrive:https://drive.google.com/file/d/1803ULqFB2hLKWIRHXMp4llUbNoAEC71A/view 
