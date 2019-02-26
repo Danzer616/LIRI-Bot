@@ -160,7 +160,7 @@ function getOMDB(movie) {
   if (!movie) {
     movie = "Blade Runner";
   }
-  let movieQueryURL = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=trilogy";
+  let movieQueryURL = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&apikey=e17d10a";
   // console.log("movieQueryURL: " + movieQueryURL)
 
   axios.get(movieQueryURL).then(

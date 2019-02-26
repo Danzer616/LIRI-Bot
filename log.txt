@@ -1,0 +1,93 @@
+
+======= Start Online Movie Database Log Entry =======
+Title: Blade Runner
+Year Released: 1982
+IMDB Rating: 8.2
+Rotten Tomatos Rating: 90%
+Country Where Produced: USA, Hong Kong
+Language: English, German, Cantonese, Japanese, Hungarian, Arabic
+Plot: A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.
+Actors: Harrison Ford, Rutger Hauer, Sean Young, Edward James Olmos
+======= End Online Movie Database Log Entry =======
+
+======= Start Online Movie Database Log Entry =======
+Title: Star Wars: Episode V - The Empire Strikes Back
+Year Released: 1980
+IMDB Rating: 8.8
+Rotten Tomatos Rating: 95%
+Country Where Produced: USA
+Language: English
+Plot: After the rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.
+Actors: Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams
+======= End Online Movie Database Log Entry =======
+
+======= Start Online Movie Database Log Entry =======
+Title: The Thing
+Year Released: 1982
+IMDB Rating: 8.1
+Rotten Tomatos Rating: 84%
+Country Where Produced: USA
+Language: English, Norwegian
+Plot: A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.
+Actors: Kurt Russell, Wilford Brimley, T.K. Carter, David Clennon
+======= End Online Movie Database Log Entry =======
+
+======= Start Online Movie Database Log Entry =======
+Title: They Live
+Year Released: 1988
+IMDB Rating: 7.3
+Rotten Tomatos Rating: 85%
+Country Where Produced: USA
+Language: English
+Plot: A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.
+Actors: Roddy Piper, Keith David, Meg Foster, George 'Buck' Flower
+======= End Online Movie Database Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Iron Maiden
+Venue: BB&T Center
+City: Sunrise
+Date: 07-18-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Vale of Pnath
+Venue: Brick By Brick
+City: San Diego
+Date: 05-17-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Night Demon
+Venue: Kiff
+City: Aarau
+Date: 03-01-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Bands In Town Log Entry =======
+Artist: Megadeth
+Venue: No More Tours 2
+City: Atlanta
+Date: 05-29-2019
+======= End Bands In Town Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Dio
+Song: Holy Diver
+Album: Holy Diver
+Preview Link: https://api.spotify.com/v1/tracks/57fqmDaokbxZ3TaB0jp39q
+======= End Spotify Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Arctic Monkeys
+Song: Do I Wanna Know?
+Album: AM
+Preview Link: https://api.spotify.com/v1/tracks/5FVd6KXrgO9B3JPmC8OPst
+======= End Spotify Log Entry =======
+
+======= Start Spotify Log Entry =======
+Artist: Various Artists
+Song: Wanna Be Startin' Something'
+Album: Michael's in Bossa
+Preview Link: https://api.spotify.com/v1/tracks/1GgoAmWabvHCxZ5h5CCikV
+======= End Spotify Log Entry =======
